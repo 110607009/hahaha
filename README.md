@@ -1,3 +1,3 @@
 # hahaha
 
-print("Hello")
+Hi!
